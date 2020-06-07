@@ -1,0 +1,6 @@
+framework module Pods_DISYSTEST {
+  umbrella header "Pods-DISYSTEST-umbrella.h"
+
+  export *
+  module * { export * }
+}

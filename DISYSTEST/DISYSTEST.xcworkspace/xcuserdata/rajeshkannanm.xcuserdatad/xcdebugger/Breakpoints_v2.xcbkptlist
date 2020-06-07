@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DISYSTEST/SignUpViewController.swift"
+            timestampString = "586151270.390978"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "loginAction()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DISYSTEST.SignUpViewController.loginAction() -&gt; ()"
+                  moduleName = "DISYSTEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeshkannanm/Documents/Mani/DISYSTEST/DISYSTEST/SignUpViewController.swift"
+                  timestampString = "586151301.4289269"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "467">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in DISYSTEST.SignUpViewController.loginAction() -&gt; ()"
+                  moduleName = "DISYSTEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeshkannanm/Documents/Mani/DISYSTEST/DISYSTEST/SignUpViewController.swift"
+                  timestampString = "586151301.430721"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DISYSTEST/Networking/ServiceManager.swift"
+            timestampString = "586151270.391075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "userLoginRequest(_:email:phone:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static DISYSTEST.ServiceManager.userLoginRequest(_: Swift.Optional&lt;Swift.String&gt;, email: Swift.Optional&lt;Swift.String&gt;, phone: Swift.Optional&lt;Swift.String&gt;, completionHandler: (Any) -&gt; ()) -&gt; ()"
+                  moduleName = "DISYSTEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeshkannanm/Documents/Mani/DISYSTEST/DISYSTEST/Networking/ServiceManager.swift"
+                  timestampString = "586151301.437665"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1351">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in static DISYSTEST.ServiceManager.userLoginRequest(_: Swift.Optional&lt;Swift.String&gt;, email: Swift.Optional&lt;Swift.String&gt;, phone: Swift.Optional&lt;Swift.String&gt;, completionHandler: (Any) -&gt; ()) -&gt; ()"
+                  moduleName = "DISYSTEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeshkannanm/Documents/Mani/DISYSTEST/DISYSTEST/Networking/ServiceManager.swift"
+                  timestampString = "586151301.440426"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "154">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DISYSTEST/Networking/ServiceManager.swift"
+            timestampString = "586151270.391191"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "userLoginRequest(_:email:phone:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DISYSTEST/Networking/NTNetworking.swift"
+            timestampString = "586151300.191489"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "alamoFireRequest(requestType:requestUrl:parameters:urlEncoding:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static DISYSTEST.NTNetworking.alamoFireRequest(requestType: Alamofire.HTTPMethod, requestUrl: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, urlEncoding: Alamofire.ParameterEncoding, completionHandler: (Alamofire.DataResponse&lt;Any&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DISYSTEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeshkannanm/Documents/Mani/DISYSTEST/DISYSTEST/Networking/NTNetworking.swift"
+                  timestampString = "586151301.419679"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "441">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in static DISYSTEST.NTNetworking.alamoFireRequest(requestType: Alamofire.HTTPMethod, requestUrl: Swift.String, parameters: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, urlEncoding: Alamofire.ParameterEncoding, completionHandler: (Alamofire.DataResponse&lt;Any&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DISYSTEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajeshkannanm/Documents/Mani/DISYSTEST/DISYSTEST/Networking/NTNetworking.swift"
+                  timestampString = "586151301.423465"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
